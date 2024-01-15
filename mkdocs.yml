@@ -1,0 +1,14 @@
+repo_url : https://github.com/c01dkit/tech-blog
+site_name: 海南大学课程资料 - Rating4All
+site_author: Natro92
+site_url: https://tech.c01dkit.com
+theme:
+  name: material
+  features:
+    - content.code.copy
+    - content.code.annotate
+docs_dir: docs
+copyright: '2023 Content provided by c01dkit'
+
+
+
